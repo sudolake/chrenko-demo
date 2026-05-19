@@ -1,0 +1,6 @@
+{
+  "name": "Advokát JUDr. Miloš Chrenko",
+  "description": "Profesionálne právne služby v Trnave od roku 2009. Špecializácia na občianske, rodinné a obchodné právo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
